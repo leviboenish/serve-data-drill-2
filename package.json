@@ -1,0 +1,23 @@
+{
+  "name": "serve-data-drill-2",
+  "version": "1.0.0",
+  "description": "Copying the data from the included `.csv` dataset:",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviboenish/serve-data-drill-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviboenish/serve-data-drill-2/issues"
+  },
+  "homepage": "https://github.com/leviboenish/serve-data-drill-2#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
