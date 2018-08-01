@@ -4,7 +4,7 @@
   "description": "Copying the data from the included `.csv` dataset:",
   "main": "app.js",
   "scripts": {
-    "run": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
